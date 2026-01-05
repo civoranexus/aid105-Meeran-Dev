@@ -1,0 +1,184 @@
+{
+  "schemes": [
+    {
+      "scheme_id": "SCH001",
+      "name": "Post Matric Scholarship for OBC Students",
+      "level": "State",
+      "state": "Maharashtra",
+      "min_age": 18,
+      "max_age": 30,
+      "min_income": 0,
+      "max_income": 200000,
+      "target_groups": ["Student", "OBC"],
+      "benefits": "Tuition fee reimbursement and stipend",
+      "documents_required": [
+        "Income Certificate",
+        "Caste Certificate",
+        "Domicile Certificate"
+      ],
+      "deadline": "2026-03-31"
+    },
+
+    {
+      "scheme_id": "SCH002",
+      "name": "PM Kisan Samman Nidhi",
+      "level": "Central",
+      "state": "All",
+      "min_age": 18,
+      "max_age": 60,
+      "min_income": 0,
+      "max_income": 250000,
+      "target_groups": ["Farmer"],
+      "benefits": "₹6000 per year financial assistance",
+      "documents_required": [
+        "Land Ownership Proof",
+        "Aadhaar Card"
+      ],
+      "deadline": "2026-12-31"
+    },
+
+    {
+      "scheme_id": "SCH003",
+      "name": "Ayushman Bharat Yojana",
+      "level": "Central",
+      "state": "All",
+      "min_age": 0,
+      "max_age": 120,
+      "min_income": 0,
+      "max_income": 200000,
+      "target_groups": ["BPL"],
+      "benefits": "Health insurance up to ₹5 lakh",
+      "documents_required": [
+        "Ration Card",
+        "Aadhaar Card"
+      ],
+      "deadline": "2026-12-31"
+    },
+
+    {
+      "scheme_id": "SCH004",
+      "name": "Mukhyamantri Yuva Karya Prashikshan Yojana",
+      "level": "State",
+      "state": "Maharashtra",
+      "min_age": 18,
+      "max_age": 35,
+      "min_income": 0,
+      "max_income": 300000,
+      "target_groups": ["Unemployed Youth"],
+      "benefits": "Skill training with monthly stipend",
+      "documents_required": [
+        "Residence Proof",
+        "Unemployment Certificate"
+      ],
+      "deadline": "2026-06-30"
+    },
+
+    {
+      "scheme_id": "SCH005",
+      "name": "National Means-cum-Merit Scholarship",
+      "level": "Central",
+      "state": "All",
+      "min_age": 12,
+      "max_age": 18,
+      "min_income": 0,
+      "max_income": 150000,
+      "target_groups": ["Student"],
+      "benefits": "Scholarship for meritorious students",
+      "documents_required": [
+        "School Certificate",
+        "Income Certificate"
+      ],
+      "deadline": "2026-09-30"
+    },
+
+    {
+      "scheme_id": "SCH006",
+      "name": "Pradhan Mantri Awas Yojana",
+      "level": "Central",
+      "state": "All",
+      "min_age": 21,
+      "max_age": 60,
+      "min_income": 0,
+      "max_income": 300000,
+      "target_groups": ["EWS", "LIG"],
+      "benefits": "Affordable housing subsidy",
+      "documents_required": [
+        "Income Certificate",
+        "Property Declaration"
+      ],
+      "deadline": "2026-12-31"
+    },
+
+    {
+      "scheme_id": "SCH007",
+      "name": "Maharashtra Old Age Pension Scheme",
+      "level": "State",
+      "state": "Maharashtra",
+      "min_age": 60,
+      "max_age": 120,
+      "min_income": 0,
+      "max_income": 100000,
+      "target_groups": ["Senior Citizen"],
+      "benefits": "Monthly pension",
+      "documents_required": [
+        "Age Proof",
+        "Income Certificate"
+      ],
+      "deadline": "2026-12-31"
+    },
+
+    {
+      "scheme_id": "SCH008",
+      "name": "Stand Up India Scheme",
+      "level": "Central",
+      "state": "All",
+      "min_age": 18,
+      "max_age": 50,
+      "min_income": 0,
+      "max_income": 500000,
+      "target_groups": ["SC", "ST", "Women Entrepreneur"],
+      "benefits": "Bank loans for entrepreneurship",
+      "documents_required": [
+        "Business Plan",
+        "Caste Certificate"
+      ],
+      "deadline": "2026-08-31"
+    },
+
+    {
+      "scheme_id": "SCH009",
+      "name": "Free Coaching Scheme for SC & OBC",
+      "level": "Central",
+      "state": "All",
+      "min_age": 18,
+      "max_age": 35,
+      "min_income": 0,
+      "max_income": 800000,
+      "target_groups": ["SC", "OBC", "Student"],
+      "benefits": "Free competitive exam coaching",
+      "documents_required": [
+        "Caste Certificate",
+        "Income Certificate"
+      ],
+      "deadline": "2026-07-31"
+    },
+
+    {
+      "scheme_id": "SCH010",
+      "name": "Maharashtra Women Self Help Group Scheme",
+      "level": "State",
+      "state": "Maharashtra",
+      "min_age": 21,
+      "max_age": 50,
+      "min_income": 0,
+      "max_income": 250000,
+      "target_groups": ["Women"],
+      "benefits": "Financial and training support",
+      "documents_required": [
+        "Identity Proof",
+        "Bank Account Details"
+      ],
+      "deadline": "2026-05-31"
+    }
+  ]
+}
