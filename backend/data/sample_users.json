@@ -1,0 +1,62 @@
+{
+    "user1": {
+        "age": 22,
+        "income": 180000,
+        "state": "Maharashtra",
+        "categories": ["Student", "OBC"]
+    },
+    "user2": {
+        "age": 35,
+        "income": 450000,
+        "state": "Karnataka",
+        "categories": ["Farmer"]
+    },
+    "user3": {
+        "age": 19,
+        "income": 120000,
+        "state": "Maharashtra",
+        "categories": ["SC", "Student"]
+    },
+    "user4": {
+        "age": 45,
+        "income": 600000,
+        "state": "Tamil Nadu",
+        "categories": ["Women Entrepreneur", "EWS"]
+    },
+    "user5": {
+        "age": 27,
+        "income": 300000,
+        "state": "Delhi",
+        "categories": ["ST", "Unemployed Youth"]
+    },
+    "user6": {
+        "age": 62,
+        "income": 80000,
+        "state": "Maharashtra",
+        "categories": ["Senior Citizen"]
+    },
+    "user7": {
+        "age": 30,
+        "income": 400000,
+        "state": "Uttar Pradesh",
+        "categories": ["OBC", "Farmer"]
+    },
+    "user8": {
+        "age": 40,
+        "income": 250000,
+        "state": "Kerala",
+        "categories": ["EWS", "LIG"]
+    },
+    "user9": {
+        "age": 55,
+        "income": 150000,
+        "state": "West Bengal",
+        "categories": ["Senior Citizen", "EWS"]
+    },
+    "user10": {
+        "age": 23,
+        "income": 100000,
+        "state": "Rajasthan",
+        "categories": ["Unemployed Youth", "SC"]
+    }
+}

@@ -1,7 +1,5 @@
 {
-  "schemes": [
-    {
-      "scheme_id": "SCH001",
+  "SCH001": {
       "name": "Post Matric Scholarship for OBC Students",
       "level": "State",
       "state": "Maharashtra",
@@ -19,8 +17,7 @@
       "deadline": "2026-03-31"
     },
 
-    {
-      "scheme_id": "SCH002",
+    "SCH002": {
       "name": "PM Kisan Samman Nidhi",
       "level": "Central",
       "state": "All",
@@ -37,8 +34,7 @@
       "deadline": "2026-12-31"
     },
 
-    {
-      "scheme_id": "SCH003",
+    "SCH003": {
       "name": "Ayushman Bharat Yojana",
       "level": "Central",
       "state": "All",
@@ -55,8 +51,7 @@
       "deadline": "2026-12-31"
     },
 
-    {
-      "scheme_id": "SCH004",
+    "SCH004": {
       "name": "Mukhyamantri Yuva Karya Prashikshan Yojana",
       "level": "State",
       "state": "Maharashtra",
@@ -73,8 +68,7 @@
       "deadline": "2026-06-30"
     },
 
-    {
-      "scheme_id": "SCH005",
+    "SCH005": {
       "name": "National Means-cum-Merit Scholarship",
       "level": "Central",
       "state": "All",
@@ -91,8 +85,7 @@
       "deadline": "2026-09-30"
     },
 
-    {
-      "scheme_id": "SCH006",
+    "SCH006": {
       "name": "Pradhan Mantri Awas Yojana",
       "level": "Central",
       "state": "All",
@@ -109,8 +102,7 @@
       "deadline": "2026-12-31"
     },
 
-    {
-      "scheme_id": "SCH007",
+    "SCH007": {
       "name": "Maharashtra Old Age Pension Scheme",
       "level": "State",
       "state": "Maharashtra",
@@ -127,8 +119,7 @@
       "deadline": "2026-12-31"
     },
 
-    {
-      "scheme_id": "SCH008",
+    "SCH008": {
       "name": "Stand Up India Scheme",
       "level": "Central",
       "state": "All",
@@ -145,8 +136,7 @@
       "deadline": "2026-08-31"
     },
 
-    {
-      "scheme_id": "SCH009",
+    "SCH009": {
       "name": "Free Coaching Scheme for SC & OBC",
       "level": "Central",
       "state": "All",
@@ -163,8 +153,7 @@
       "deadline": "2026-07-31"
     },
 
-    {
-      "scheme_id": "SCH010",
+    "SCH010": {
       "name": "Maharashtra Women Self Help Group Scheme",
       "level": "State",
       "state": "Maharashtra",
@@ -180,5 +169,4 @@
       ],
       "deadline": "2026-05-31"
     }
-  ]
 }
