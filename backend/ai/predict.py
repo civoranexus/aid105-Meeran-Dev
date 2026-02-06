@@ -1,7 +1,11 @@
+from pathlib import Path
 import pickle
 from ai.feature_extractor import extract_features
 
-with open("ai/eligibility_model.pkl", "rb") as f:
+BASE_DIR = Path(__file__).resolve().parent.parent
+AI_DIR = BASE_DIR / "ai"
+
+with open(AI_DIR / "eligibility_model.pkl", "rb") as f:
     model = pickle.load(f)
 
 def predict_eligibility(user, scheme):
@@ -18,4 +22,4 @@ def predict_eligibility(user, scheme):
     else:
         category = "Not Eligible"
     
-    return {round(probability, 2), category, features}
+    return round(probability, 2), category, features
