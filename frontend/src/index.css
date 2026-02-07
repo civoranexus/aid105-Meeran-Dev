@@ -6,20 +6,20 @@
 body {
   font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI",
                Roboto, Oxygen, Ubuntu, Cantarell, sans-serif;
-  background: linear-gradient(135deg, #f0f4ff, #f9f9f9);
+  background: #F4F7FA;
   margin: 0;
   padding: 2rem 1rem;
-  color: #222;
+  color: #071426;
 }
 
 /* Card */
 .card {
-  background: #ffffff;
+  background: #FFFFFF;
   padding: 1.5rem;
   border-radius: 6px;
   max-width: 420px;
   margin: auto;
-  box-shadow: 0 10px 25px rgba(0, 0, 0, 0.08);
+  box-shadow: 0 10px 25px rgba(20, 44, 82, 0.08);
 }
 
 /* Inputs & buttons */
@@ -30,26 +30,27 @@ button {
   margin-top: 0.75rem;
   font-size: 1rem;
   border-radius: 4px;
-  border: 1px solid #ddd;
+  border: 1px solid #dbe2ea;
   transition: all 0.2s ease;
+  color: #071426;
 }
 
 input:focus {
   outline: none;
-  border-color: #5b7cff;
-  box-shadow: 0 0 0 3px rgba(91, 124, 255, 0.2);
+  border-color: #1B9AAA; /* Accents / links */
+  box-shadow: 0 0 0 3px rgba(27, 154, 170, 0.25);
 }
 
 button {
-  background: #5b7cff;
-  color: white;
+  background: #16808D; /* Buttons */
+  color: #FFFFFF;
   font-weight: 600;
   border: none;
   cursor: pointer;
 }
 
 button:hover {
-  background: #4a69f5;
+  background: #136f7a;
   transform: translateY(-1px);
 }
 
@@ -68,19 +69,19 @@ button:active {
 .scheme {
   padding: 1rem;
   border-radius: 5px;
-  background: #ffffff;
-  box-shadow: 0 6px 16px rgba(0, 0, 0, 0.06);
+  background: #FFFFFF;
+  box-shadow: 0 6px 16px rgba(20, 44, 82, 0.06);
   transition: transform 0.2s ease, box-shadow 0.2s ease;
 }
 
 .scheme:hover {
   transform: translateY(-2px);
-  box-shadow: 0 10px 22px rgba(0, 0, 0, 0.08);
+  box-shadow: 0 10px 22px rgba(20, 44, 82, 0.08);
 }
 
 /* Accent styles */
 .green {
-  border-left: 6px solid #2ecc71;
+  border-left: 6px solid #22C55E;
 }
 
 .orange {
@@ -88,5 +89,5 @@ button:active {
 }
 
 .red {
-  border-left: 6px solid #db3434;
+  border-left: 6px solid #EF4444;
 }
